@@ -1,7 +1,7 @@
 # 🌟 Afnan Mohamed's Portfolio
 
 Welcome to my personal portfolio website!  
-This is a responsive, elegant, and modern single-page portfolio built using **HTML**, **CSS**, and a bit of **JavaScript**. It showcases my background, skills, projects, and contact information — all in one place.
+This is a responsive, elegant, and modern single-page portfolio built using **HTML**, **CSS**. It showcases my background, skills, projects, and contact information — all in one place.
 
 ---
 
