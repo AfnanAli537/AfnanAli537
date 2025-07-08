@@ -30,6 +30,6 @@ This is a responsive, elegant, and modern single-page portfolio built using **HT
 ![Portfolio Preview](image.png)
 ![Portfolio Preview](image1.png)
 ![Portfolio Preview](image2.png)
-![Portfolio Preview](image2.png)
-(image3.png)
+![Portfolio Preview](image3.png)
+
 
